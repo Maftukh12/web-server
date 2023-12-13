@@ -5,6 +5,7 @@
 ```sh
 $ sudo apt update
 $ sudo apt install Apache2
+$sudo ufw allow 'Apache Full'
 ```
 ## instalation ssh
 ```sh
