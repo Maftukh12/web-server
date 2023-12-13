@@ -12,3 +12,9 @@ $ sudo ufw allow 'Apache Full'
 $ sudo apt update
 $sudo apt install openssh-server
 ```
+##instalation PHP
+```sh
+$ sudo apt update
+$ sudo apt install php libapache2-mod-php php-mysql
+$ 
+```
