@@ -6,3 +6,8 @@
 $ sudo apt update
 $ sudo apt install Apache2
 ```
+## instalation ssh
+```sh
+$ sudo apt update
+$sudo apt install openssh-server
+```
