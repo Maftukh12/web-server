@@ -29,7 +29,15 @@ $
 $ cd var/www/html
 masukan file atau ubah file index.html
 ```
-![image](https://github.com/Maftukh12/web-server/assets/144332887/0edf7217-6c4c-4323-9750-2e11d94e5273)
+## instalaton ngrok
+```sh
+$ sudo apt install snapd
+$ snap install ngrok
+$ masukan kode authoken
+$ ngrok http 80
+```
+![image](https://github.com/Maftukh12/web-server/assets/144332887/1ee0ea3d-5944-4422-83aa-b192efde9ec2)
+
 
 
 
