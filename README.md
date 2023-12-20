@@ -24,7 +24,7 @@ $ sudo apt update
 $ sudo apt install php libapache2-mod-php php-mysql
 $ 
 ```
-## configurasi file
+## configurasi file untuk menampilkan web
 ```shmasuk ke file /var/www/html
 $ cd var/www/html
 masukan file atau ubah file index.html
