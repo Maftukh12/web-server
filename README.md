@@ -19,9 +19,10 @@ $ sudo apt install php libapache2-mod-php php-mysql
 $ 
 ```
 ## configurasi file
-masuk ke file /var/www/html
+```shmasuk ke file /var/www/html
 $ cd var/www/html
 masukan file atau ubah file index.html
+```
 ![image](https://github.com/Maftukh12/web-server/assets/144332887/0edf7217-6c4c-4323-9750-2e11d94e5273)
 
 
