@@ -12,6 +12,12 @@ $ sudo ufw allow 'Apache Full'
 $ sudo apt update
 $sudo apt install openssh-server
 ```
+## configurate ssh
+```sh
+$ cd /etc/ssh
+$ nano sshd_config
+lalu hapus '#' pada port 22 dan permitionlogin yes
+```
 ## instalation PHP
 ```sh
 $ sudo apt update
